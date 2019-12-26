@@ -2,7 +2,7 @@
 
 Jupyter Notebooks for all basic Machine Learning Algorithms on famous datasets.
 
-## Numpy Pandas Matplotlib and Scipy Basics
+## Machine Learning Packages
 
 __Numpy Notebooks__
 * Numpy-Basics
