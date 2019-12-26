@@ -39,6 +39,7 @@ __Support Vector Classification__
 * SVC-Cancer
 
 __Decision Trees__
+* Decision Tree-Company
 
 __Random Forest__
 
