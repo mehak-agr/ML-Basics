@@ -14,10 +14,12 @@ __Pandas Notebooks__
 * Pandas-Continued
 * Pandas-Extended
 
-__Matplotlib Notebook__
+__Matplotlib Notebooks__
 * MatPlotLib-Basics
 * Seaborn-Stroke
 
+__Scipy__
+* Scipy-Basics
 
 ## Supervised Machine Learning Algorithms
 
@@ -29,6 +31,7 @@ __Logistic Regression__
 
 __Support Vector Classification__
 * SVC-Iris
+* SVC-Cancer
 
 __Decision Trees__
 
