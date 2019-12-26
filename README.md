@@ -8,17 +8,17 @@ Jupyter Notebooks for all basic Machine Learning Algorithms on famous datasets.
 
 ## Machine Learning Packages
 
-__Numpy Notebooks__
+__Numpy__
 * Numpy-Basics
 * Numpy-Data
 * Numpy-Extended
 
-__Pandas Notebooks__
+__Pandas__
 * Pandas-Basics
 * Pandas-Continued
 * Pandas-Extended
 
-__Matplotlib Notebooks__
+__Matplotlib__
 * MatPlotLib-Basics
 * MatPlotLib-Stroke
 * Seaborn-Stroke
