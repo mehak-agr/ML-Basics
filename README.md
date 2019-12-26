@@ -49,5 +49,5 @@ __KMeans Clustering__
 * KMeans Clustering-Iris
 
 __KNearest Neighbours__
-* KNearest Neighbours
+* KNearest Neighbours-Iris
 
