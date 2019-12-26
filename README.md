@@ -2,6 +2,10 @@
 
 Jupyter Notebooks for all basic Machine Learning Algorithms on famous datasets.
 
+## Python
+* Python-Basics
+* Python-Loan
+
 ## Machine Learning Packages
 
 __Numpy Notebooks__
