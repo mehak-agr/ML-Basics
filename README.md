@@ -16,15 +16,19 @@ __Pandas Notebooks__
 
 __Matplotlib Notebook__
 * MatPlotLib-Basics
+* Seaborn-Stroke
 
 
 ## Supervised Machine Learning Algorithms
 
 __Linear Regression__
+* Linear Regression-Diabetes
 
 __Logistic Regression__
+* Logistic Regression-Digits
 
 __Support Vector Classification__
+* SVC-Iris
 
 __Decision Trees__
 
@@ -33,4 +37,5 @@ __Random Forest__
 ## Unsupervised Machine Learning Algorithms
 
 __KMeans Clustering__
+* KMeans Clustering-Iris
 
