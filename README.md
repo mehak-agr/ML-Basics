@@ -5,8 +5,9 @@ Jupyter Notebooks for all basic Machine Learning Algorithms on famous datasets.
 ## Numpy Pandas Matplotlib and Scipy Basics
 
 __Numpy Notebooks__
-* Np-Short
-* Np-Extended
+* Numpy-Basics
+* Numpy-Data
+* Numpy-Extended
 
 __Pandas Notebooks__
 * Pd-Short
