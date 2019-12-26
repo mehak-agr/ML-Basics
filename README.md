@@ -2,25 +2,32 @@
 
 Jupyter Notebooks for all basic Machine Learning Algorithms on famous datasets.
 
-__Numpy Pandas Matplotlib and Scipy Basics__
+## Numpy Pandas Matplotlib and Scipy Basics
 
-* Numpy Notebooks\
-Numpy-Short\
-Numpy-Extended
+__Numpy Notebooks__
+* Np-Short
+* Np-Extended
 
-* Pandas Notebooks\
-Pandas-Short\
-Pandas-Extended
+__Pandas Notebooks__
+* Pd-Short
+* Pd-Extended
 
-* Matplotlib Notebook
+__Matplotlib Notebook__
 
 
-__Machine Learning Algorithm and Examples__
+## Supervised Machine Learning Algorithms
 
-* Linear Regression
+__Linear Regression__
 
-* Logistic Regression
+__Logistic Regression__
 
-* Support Vector Classification
+__Support Vector Classification__
 
+__Decision Trees__
+
+__Random Forest__
+
+## Unsupervised Machine Learning Algorithms
+
+__KMeans Clustering__
 
