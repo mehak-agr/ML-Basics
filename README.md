@@ -15,6 +15,7 @@ __Pandas Notebooks__
 * Pandas-Extended
 
 __Matplotlib Notebook__
+* MatPlotLib-Basics
 
 
 ## Supervised Machine Learning Algorithms
