@@ -48,3 +48,6 @@ __Random Forest__
 __KMeans Clustering__
 * KMeans Clustering-Iris
 
+__KNearest Neighbours__
+* KNearest Neighbours
+
