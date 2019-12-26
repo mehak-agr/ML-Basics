@@ -16,6 +16,7 @@ __Pandas Notebooks__
 
 __Matplotlib Notebooks__
 * MatPlotLib-Basics
+* MatPlotLib-Stroke
 * Seaborn-Stroke
 
 __Scipy__
