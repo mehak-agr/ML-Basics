@@ -10,8 +10,9 @@ __Numpy Notebooks__
 * Numpy-Extended
 
 __Pandas Notebooks__
-* Pd-Short
-* Pd-Extended
+* Pandas-Basics
+* Pandas-Continued
+* Pandas-Extended
 
 __Matplotlib Notebook__
 
